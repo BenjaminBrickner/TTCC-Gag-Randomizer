@@ -5,7 +5,7 @@ Simple program that provides you a random gag build.
 ### Steps
 
 1. **Download The Binary:**
-	- Go to the [Releases](https://github.com/yourusername/your-repo-name/releases) page of this repository.
+	- Go to the [Releases](https://github.com/yourusername/TTCC-Gag-Randomizer/releases) page of this repository.
     - Download the binary zip file
 
 2. **Extract The Binary:**
